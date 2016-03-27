@@ -8,14 +8,14 @@ permalink:        pretty
 
 # Setup
 title:            Short exposure
-tagline:          'engineering bla bla'
-description:      'bla bla bla.'
-url:              http://hyde.getpoole.com
+tagline:          'engineering blah blah'
+description:      'engineering blah blah.'
+url:              http://jaroszue.github.io
 baseurl:          /
 
 author:
   name:           'Emil Jaroszuk'
-  url:            
+  url:            http://jaroszue.github.io
 
 paginate:         5
 
